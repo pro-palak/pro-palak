@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hey, I'm Palak Goyani!
 
-<!--
-**pro-palak/pro-palak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Developer** | 🎨 **UI/UX & Front-End Enthusiast** | 🌍 **Tech for Good Advocate**  
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I’m passionate about creating intuitive and accessible digital experiences. With a background in **software development, design, and event technology**, I love building solutions that make life easier. To know more click this link to my portfolio website : https://palak-goyani.netlify.app/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 **About Me**
+- 💡 Currently working on **TaskAid** – A task management tool designed for ADHD users  
+- 💻 Experienced in **HTML, CSS, JavaScript, Java, Python, and C**  
+- 🎨 Passionate about **graphic design, UI/UX, and software architecture**  
+- 🌱 Learning **Machine Learning & Advanced Java Development**  
